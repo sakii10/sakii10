@@ -21,18 +21,18 @@
 
 ---
 
-[Community Day Companion — Mobile Event App](https://github.com/sakii10/community-day-companion)
+[Community Day Companion - Mobile Event App](https://github.com/sakii10/community-day-companion)
 
-[ManGo — Full-Stack Application](#)
+[ManGo - Full-Stack Application](#)
 
-[Microsmart Monitor — Smart City Monitoring](#)
+[Microsmart Monitor - Smart City Monitoring](#)
 
-[Cloud File Store System — AWS Serverless Application](#)
+[Cloud File Store System - AWS Serverless Application](#)
 
-[Advanced Algorithms — NoSQL Database in Go](https://github.com/sakii10/Advanced-Algorithms)
+[Advanced Algorithms - NoSQL Database in Go](https://github.com/sakii10/Advanced-Algorithms)
 
-[IoT System — Raspberry Pi IoT Platform](https://github.com/sakii10/Iot)
+[IoT System - Raspberry Pi IoT Platform](https://github.com/sakii10/Iot)
 
-[Travel Assistant WPF](#)
+[Travel Assistant - WPF](#)
 
 
