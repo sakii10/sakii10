@@ -13,7 +13,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,reactnative,angular,python,django,aws,postgresql,mysql,mongodb,androidstudio,unity,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,angular,python,django,aws,postgresql,mysql,mongodb,androidstudio,unity,git,figma)](https://skillicons.dev)
 
 ---
 
