@@ -9,18 +9,30 @@
 🚀 This profile is my professional space for **personal projects, career development, and selected university projects**.
 
 ---
+### Skills
 
-<!--
-**sakii10/sakii10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,ts,react,reactnative,angular,python,django,aws,postgresql,mysql,mongodb,androidstudio,unity,git,figma)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Projects
+
+---
+
+[Community Day Companion — Mobile Event App](https://github.com/sakii10/community-day-companion)
+
+[ManGo — Full-Stack Application](#)
+
+[Microsmart Monitor — Smart City Monitoring](#)
+
+[Cloud File Store System — AWS Serverless Application](#)
+
+[Advanced Algorithms — NoSQL Database in Go](https://github.com/sakii10/Advanced-Algorithms)
+
+[IoT System — Raspberry Pi IoT Platform](https://github.com/sakii10/Iot)
+
+[Travel Assistant WPF](#)
+
+
